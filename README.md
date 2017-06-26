@@ -1,7 +1,7 @@
 # find_gaps
 Finding the energy gaps from VASP output files.
 
-* The shellscript and python script files should always be used together.
-* Execute the shellscript.
-* Be sure to go to the desired directory.
+* Execute "./main.sh" directly.
+* The shellscript and python script files should stay in the same director.
+* Be sure the current work directory is the desired VASP calculation directory.
 * OUTCAR DOSCAR EIGENVAL files are required.
